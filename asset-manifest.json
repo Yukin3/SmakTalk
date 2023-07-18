@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SmakTalk/static/css/main.c7981a8a.css",
+    "main.js": "/SmakTalk/static/js/main.db6a5d84.js",
+    "static/js/787.6f726199.chunk.js": "/SmakTalk/static/js/787.6f726199.chunk.js",
+    "index.html": "/SmakTalk/index.html",
+    "main.c7981a8a.css.map": "/SmakTalk/static/css/main.c7981a8a.css.map",
+    "main.db6a5d84.js.map": "/SmakTalk/static/js/main.db6a5d84.js.map",
+    "787.6f726199.chunk.js.map": "/SmakTalk/static/js/787.6f726199.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7981a8a.css",
+    "static/js/main.db6a5d84.js"
+  ]
+}
